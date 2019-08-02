@@ -23,7 +23,7 @@ namespace LeetCode{
     /// <summary>
     /// 杨辉三角
     /// </summary>
-    public class PascalTriangle{
+    public partial class PascalTriangle{
 
         /// <summary>
         /// 给定一个非负整数 n ，生成杨辉三角的前 n 行
