@@ -8,19 +8,6 @@
 
 namespace LeetCode{
 
-        /**
- * Definition for singly-linked list.
- * public class ListNode {
- *     public int val;
- *     public ListNode next;
- *     public ListNode(int x) { val = x; }
- * }
- */
-    public class ListNode{
-        public int val;
-        public ListNode next;
-        public ListNode(int x){val =x;}
-    }
     class MergeTwoSortedLinkedlist{
         public ListNode test(ListNode l1, ListNode l2) {
             if(l1==null) return l2;
