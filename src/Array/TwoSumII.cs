@@ -60,5 +60,4 @@ namespace LeetCode{
             return new int[] { l + 1, r + 1 };
         }
     }
-    }
 }
